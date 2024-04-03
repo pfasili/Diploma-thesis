@@ -1,5 +1,5 @@
 # Diploma-thesis
-This is my diploma thesis regarding an Indoor Solar Energy Harvesting System. 
+This is my diploma thesis regarding an Indoor Solar Energy Harvesting System, written in LaTeX. 
 
 This is the abstract of my thesis in english.
 
